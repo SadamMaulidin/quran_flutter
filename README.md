@@ -1,6 +1,8 @@
 # quran_app
 
-A new Flutter application.
+Baca Al quran sekarang bisa kapanpun & dimanapun
+
+![screeshot](quran.jpg)
 
 ## Getting Started
 
